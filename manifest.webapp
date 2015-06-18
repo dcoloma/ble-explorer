@@ -1,11 +1,11 @@
 {
   "name": "BLE Explorer",
   "type": "web",
-  "launch_path": "/index.html",
+  "launch_path": "/ble-explorer/index.html",
    "icons": {
-    "16": "/img/icons/icon_16.png",
-    "48": "/img/icons/icon_48.png",
-    "128": "/img/icons/icon_128.png"
+    "16": "/ble-explorer/img/icons/icon_16.png",
+    "48": "/ble-explorer/img/icons/icon_48.png",
+    "128": "/ble-explorer/img/icons/icon_128.png"
   },
   "description": "BLE Explorer App",
   "locales": {

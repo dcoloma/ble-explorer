@@ -4,7 +4,6 @@
     <script>
       // This URL must be a full url.
       var manifestUrl = 'https://dcoloma.github.io/ble-explorer/manifest.webapp';
-      alert("URL " + manifestUrl)
       var req = navigator.mozApps.install(manifestUrl);
       req.onsuccess = function() {
         alert("Install Launched");
